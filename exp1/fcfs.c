@@ -4,7 +4,7 @@
    Date of Creation: 13-09-2022
    Date of Execution: 13-09-2022
 */
-// Source Code
+//source Code
 #include<stdio.h>
 void findWaitingTime(int processes[], int n,int bt[], int wt[])
 {
